@@ -1,0 +1,4 @@
+{
+  "Taxi training model pipeline": "module3/orchestrate.py:main_flow",
+  "main-flow": "module3/orchestrate.py:main_flow"
+}

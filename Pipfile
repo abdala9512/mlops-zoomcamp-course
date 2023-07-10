@@ -12,6 +12,7 @@ pandas = "*"
 numpy = "*"
 prefect-email = "*"
 flask = "*"
+evidently = "*"
 
 [dev-packages]
 ipykernel = "*"

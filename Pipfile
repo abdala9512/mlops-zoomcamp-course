@@ -13,6 +13,10 @@ numpy = "*"
 prefect-email = "*"
 flask = "*"
 evidently = "*"
+tqdm = "*"
+joblib = "*"
+psycopg = "*"
+psycopg2 = "*"
 
 [dev-packages]
 ipykernel = "*"
